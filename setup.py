@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
      name='proxyValidator',  
-     version='0.2',
+     version='0.3',
      author="Zygimantas Bagdzevicius",
      author_email="zbagdzevicius@gmail.com",
      description="Returns validated proxies",
